@@ -12,8 +12,8 @@ torchtext 0.11.1
 ```
 Start with creating a virtual environment then open your terminal and follow the following steps:
 ```commandline
-git clone "https://github.com/zaghlol94/Machine-Translation-Seq2Seq"
-cd Machine-Translation-Seq2Seq
+git clone "https://github.com/zaghlol94/Machine-Translation-seq2seq-phrase-representation"
+cd Machine-Translation-seq2seq-phrase-representation
 pip install -r requirements.txt
 bash download_assets.sh
 cd src
