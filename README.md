@@ -1,5 +1,5 @@
 # Machine-Translation-seq2seq-phrase-representation
-This rebo is a pytorch implementation of [Learning Phrase Representations using RNN Encoder–Decoder
+This repo is a pytorch implementation of [Learning Phrase Representations using RNN Encoder–Decoder
 for Statistical Machine Translation](https://arxiv.org/abs/1406.1078) on [Multi30k](https://metatext.io/datasets/multi30k) dataset using De->En pair language, 
 the algorithm achieved 20.30 Belu-score.
 
